@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDome", "EFDome\EFDome.csproj", "{51F2D2A6-B171-4BF0-AD43-0ABA31920AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelFirst", "ModelFirst\ModelFirst.csproj", "{07AD93C0-3DA5-4AC7-BDED-2FAAAFD4AE25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst", "CodeFirst\CodeFirst.csproj", "{5BFFBB6A-2820-4C89-B1C4-73415E9BFF48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F2D2A6-B171-4BF0-AD43-0ABA31920AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F2D2A6-B171-4BF0-AD43-0ABA31920AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F2D2A6-B171-4BF0-AD43-0ABA31920AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F2D2A6-B171-4BF0-AD43-0ABA31920AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AD93C0-3DA5-4AC7-BDED-2FAAAFD4AE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AD93C0-3DA5-4AC7-BDED-2FAAAFD4AE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AD93C0-3DA5-4AC7-BDED-2FAAAFD4AE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AD93C0-3DA5-4AC7-BDED-2FAAAFD4AE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFFBB6A-2820-4C89-B1C4-73415E9BFF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFFBB6A-2820-4C89-B1C4-73415E9BFF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFFBB6A-2820-4C89-B1C4-73415E9BFF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFFBB6A-2820-4C89-B1C4-73415E9BFF48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA8AA74-EB5F-429C-BCBE-6A109DBEE0B6}
+	EndGlobalSection
+EndGlobal

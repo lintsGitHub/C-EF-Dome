@@ -1,0 +1,13 @@
+D:\个人C#\EF\EFDome\CodeFirst\bin\Debug\CodeFirst.exe.config
+D:\个人C#\EF\EFDome\CodeFirst\bin\Debug\CodeFirst.exe
+D:\个人C#\EF\EFDome\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\个人C#\EF\EFDome\CodeFirst\bin\Debug\EntityFramework.dll
+D:\个人C#\EF\EFDome\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\个人C#\EF\EFDome\CodeFirst\bin\Debug\EntityFramework.xml
+D:\个人C#\EF\EFDome\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\个人C#\EF\EFDome\CodeFirst\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\个人C#\EF\EFDome\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+D:\个人C#\EF\EFDome\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\个人C#\EF\EFDome\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\个人C#\EF\EFDome\CodeFirst\obj\Debug\CodeFirst.exe
+D:\个人C#\EF\EFDome\CodeFirst\obj\Debug\CodeFirst.pdb

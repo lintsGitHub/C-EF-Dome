@@ -1,0 +1,13 @@
+D:\个人C#\EF\EFDome\EFDome\bin\Debug\EFDome.exe.config
+D:\个人C#\EF\EFDome\EFDome\bin\Debug\EFDome.exe
+D:\个人C#\EF\EFDome\EFDome\bin\Debug\EFDome.pdb
+D:\个人C#\EF\EFDome\EFDome\bin\Debug\EntityFramework.dll
+D:\个人C#\EF\EFDome\EFDome\bin\Debug\EntityFramework.SqlServer.dll
+D:\个人C#\EF\EFDome\EFDome\bin\Debug\EntityFramework.xml
+D:\个人C#\EF\EFDome\EFDome\bin\Debug\EntityFramework.SqlServer.xml
+D:\个人C#\EF\EFDome\EFDome\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\个人C#\EF\EFDome\EFDome\obj\Debug\EFDome.csprojAssemblyReference.cache
+D:\个人C#\EF\EFDome\EFDome\obj\Debug\EFDome.csproj.CoreCompileInputs.cache
+D:\个人C#\EF\EFDome\EFDome\obj\Debug\EFDome.csproj.CopyComplete
+D:\个人C#\EF\EFDome\EFDome\obj\Debug\EFDome.exe
+D:\个人C#\EF\EFDome\EFDome\obj\Debug\EFDome.pdb
