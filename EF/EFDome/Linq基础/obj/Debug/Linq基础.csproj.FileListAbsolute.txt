@@ -1,0 +1,13 @@
+D:\个人C#\DOME\EF\EFDome\Linq基础\bin\Debug\Linq基础.exe.config
+D:\个人C#\DOME\EF\EFDome\Linq基础\bin\Debug\Linq基础.exe
+D:\个人C#\DOME\EF\EFDome\Linq基础\bin\Debug\Linq基础.pdb
+D:\个人C#\DOME\EF\EFDome\Linq基础\bin\Debug\EntityFramework.dll
+D:\个人C#\DOME\EF\EFDome\Linq基础\bin\Debug\EntityFramework.SqlServer.dll
+D:\个人C#\DOME\EF\EFDome\Linq基础\bin\Debug\EntityFramework.xml
+D:\个人C#\DOME\EF\EFDome\Linq基础\bin\Debug\EntityFramework.SqlServer.xml
+D:\个人C#\DOME\EF\EFDome\Linq基础\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\个人C#\DOME\EF\EFDome\Linq基础\obj\Debug\Linq基础.csproj.CoreCompileInputs.cache
+D:\个人C#\DOME\EF\EFDome\Linq基础\obj\Debug\Linq基础.csproj.CopyComplete
+D:\个人C#\DOME\EF\EFDome\Linq基础\obj\Debug\Linq基础.exe
+D:\个人C#\DOME\EF\EFDome\Linq基础\obj\Debug\Linq基础.pdb
+D:\个人C#\DOME\EF\EFDome\Linq基础\obj\Debug\Linq基础.csprojAssemblyReference.cache

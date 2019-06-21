@@ -12,10 +12,18 @@ namespace CodeFirst
         {
             using (Student db = new Student())
             {
+                //添加
                 db.MyEntities.Add(new MyEntity {
                     Name = "111",
                     Id = 1
                 });
+                //删除
+                var item = db.MyEntities.FirstOrDefault();
+
+                db.Entry(item).State = System.Data.Entity.EntityState.Added;
+
+                db.MyEntities.Remove(item);
+
                 db.SaveChanges();
             }
         }
