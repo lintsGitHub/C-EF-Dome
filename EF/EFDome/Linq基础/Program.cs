@@ -40,7 +40,7 @@ namespace Linq基础
             //stopwatch.Stop();
             //Console.WriteLine(stopwatch.Elapsed);
 
-
+            seleLet();
             Console.ReadKey();
         }
         /// <summary>
@@ -118,7 +118,7 @@ namespace Linq基础
             }
         }
         /// <summary>
-        /// 
+        /// 多表连接查询
         /// </summary>
         static void seleJoin() {
 
@@ -126,11 +126,24 @@ namespace Linq基础
             {
                 var query = from s in context.StudentSets
                             join g in context.Classes
-                            on s.Id equals g.Id  // 两个
+                            on s.Id equals g.Id  // 两个数据类型要一致
                             select new { s, g };
                 var list = query.ToList();
             }
-
         }
+        /// <summary>
+        /// 使用let 临时变量
+        /// </summary>
+        static void seleLet() {
+            using (SchoolDBEntities context = new SchoolDBEntities())
+            {
+                var query = from s in context.StudentSets
+                            let len = s.Name.Length
+                            select new { s ,len = len};
+                //Console.WriteLine();
+                var list = query.ToList();
+            }
+        }
+
     }
 }
