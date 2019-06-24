@@ -13,7 +13,7 @@ namespace ESQL与RSQL
         static void Main(string[] args)
         {
             //ESQL();
-            RSQL();
+            RSQLDome();
         }
 
 
@@ -34,7 +34,7 @@ namespace ESQL与RSQL
             }
         }
         /// <summary>
-        /// RSQL 
+        /// ESQL 
         /// </summary>
         static void RSQL() {
             // 这个就是App.config中的数据库连接串
@@ -48,7 +48,7 @@ namespace ESQL与RSQL
                 cmd.CommandText = "select value s from SchoolDBEntities.StudentSets as s";
                 //定义一个接收字典
                 Dictionary<int, string> dic = new Dictionary<int, string>();
-
+                //创建一个reader来进行数据读取
                 using (EntityDataReader rd = cmd.ExecuteReader(System.Data.CommandBehavior.SequentialAccess|System.Data.CommandBehavior.CloseConnection))
                 {
                     while (rd.Read())
@@ -59,8 +59,24 @@ namespace ESQL与RSQL
                     }
                 }
             }
-
         }
+        /// <summary>
+        /// RSQL 
+        /// </summary>
+        static void RSQLDome() {
+            using (SchoolDBEntities context = new SchoolDBEntities())
+            {
+                //查
+                //var query = context.StudentSets.SqlQuery("select * from StudentSets").ToList();
+                //在Database层面上进行的 , 可以无实体接收
+                //var query = context.Database.SqlQuery<StudentSets>("select * from StudentSets").ToList();
+                //C,U,D 都是
+                var query = context.Database.ExecuteSqlCommand("update StudentSets set Name = 'lint' where Name = 'lint0'");
+            }
+        }
+
+
+
 
     }
 }
