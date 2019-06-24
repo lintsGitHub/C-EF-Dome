@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Transactions;
 
 namespace 分析EF中的transaction
 {
@@ -55,14 +56,72 @@ namespace 分析EF中的transaction
         {
             using (SchoolDBEntities context = new SchoolDBEntities())
             {
-                //开启一个事务
-                var tran = context.Database.BeginTransaction();
+                //开启一个事务,并将它设置为脏读，我们就可以避免死锁的一个问题(高并发的一个解决方案)
+                var tran = context.Database.BeginTransaction(System.Data.IsolationLevel.ReadUncommitted);
                 //向控制台输出日志
                 context.Database.Log = Console.WriteLine;
                 var query = context.Classes.FirstOrDefault();
                 context.SaveChanges();
                 //提交一个事务
                 tran.Commit();
+            }
+        }
+        /// <summary>
+        /// 比较完整的一个自定义事务提交方案
+        /// </summary>
+        static void TranDome4() {
+            using (SchoolDBEntities context = new SchoolDBEntities())
+            {
+                //开启一个事务,并将它设置为脏读，我们就可以避免死锁的一个问题(高并发的一个解决方案)
+                using (var tran = context.Database.BeginTransaction(System.Data.IsolationLevel.ReadUncommitted))
+                {
+                    try
+                    {
+                        //向控制台输出日志
+                        context.Database.Log = Console.WriteLine;
+
+                        //curd...
+
+                        var query = context.Classes.FirstOrDefault();
+                        context.SaveChanges();
+                        //提交一个事务
+                        tran.Commit();
+                    }
+                    catch (Exception ex)
+                    {
+                        tran.Rollback();
+                    }
+                }
+            }
+        }
+        /// <summary>
+        /// 我们还可以使用TransactionScope 的方式进行事务管理
+        /// </summary>
+        static void TranDome5()
+        {
+            using (SchoolDBEntities context = new SchoolDBEntities())
+            {
+                //开启一个事务
+                using (var tran =new TransactionScope())
+                {
+                    try
+                    {
+                        //向控制台输出日志
+                        context.Database.Log = Console.WriteLine;
+
+                        //curd...
+
+                        var query = context.Classes.FirstOrDefault();
+                        context.SaveChanges();
+                        //提交一个事务
+                        tran.Complete();
+                    }
+                    catch (Exception ex)
+                    {
+                        //回滚
+                        Transaction.Current.Rollback();
+                    }
+                }
             }
         }
     }
