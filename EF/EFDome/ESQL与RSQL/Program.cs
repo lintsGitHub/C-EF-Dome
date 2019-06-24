@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity.Core.EntityClient;
 using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Text;
@@ -11,7 +12,8 @@ namespace ESQL与RSQL
     {
         static void Main(string[] args)
         {
-            ESQL();
+            //ESQL();
+            RSQL();
         }
 
 
@@ -31,7 +33,34 @@ namespace ESQL与RSQL
                 
             }
         }
-        
+        /// <summary>
+        /// RSQL 
+        /// </summary>
+        static void RSQL() {
+            // 这个就是App.config中的数据库连接串
+            using (var con = new EntityConnection("name=SchoolDBEntities"))
+            {
+                //打开连接
+                con.Open();
+                //通过连接创建一个命令对象
+                EntityCommand cmd = con.CreateCommand();
+                //设置要执行的SQL语句或存储过程
+                cmd.CommandText = "select value s from SchoolDBEntities.StudentSets as s";
+                //定义一个接收字典
+                Dictionary<int, string> dic = new Dictionary<int, string>();
+
+                using (EntityDataReader rd = cmd.ExecuteReader(System.Data.CommandBehavior.SequentialAccess|System.Data.CommandBehavior.CloseConnection))
+                {
+                    while (rd.Read())
+                    {
+                        int a = rd.GetInt32(0);
+                        string b = rd.GetString(1);
+                        dic.Add(a, b);
+                    }
+                }
+            }
+
+        }
 
     }
 }
