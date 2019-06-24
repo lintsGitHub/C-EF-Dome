@@ -70,8 +70,13 @@ namespace ESQL与RSQL
                 //var query = context.StudentSets.SqlQuery("select * from StudentSets").ToList();
                 //在Database层面上进行的 , 可以无实体接收
                 //var query = context.Database.SqlQuery<StudentSets>("select * from StudentSets").ToList();
-                //C,U,D 都是
-                var query = context.Database.ExecuteSqlCommand("update StudentSets set Name = 'lint' where Name = 'lint0'");
+                //C,U,D 都是通过ExecuteSqlCommand 来执行
+                //var query = context.Database.ExecuteSqlCommand("update StudentSets set Name = 'lint' where Name = 'lint0'");
+                //判断数据库是否存在
+                // context.Database.Exists();
+                //开启一个事务
+                //context.Database.BeginTransaction();
+               // context.Database 对数据库的增删改查操作
             }
         }
 
