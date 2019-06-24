@@ -1,0 +1,13 @@
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\bin\Debug\ESQL与RSQL.exe.config
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\bin\Debug\ESQL与RSQL.exe
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\bin\Debug\ESQL与RSQL.pdb
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\bin\Debug\EntityFramework.dll
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\bin\Debug\EntityFramework.SqlServer.dll
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\bin\Debug\EntityFramework.xml
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\bin\Debug\EntityFramework.SqlServer.xml
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\obj\Debug\ESQL与RSQL.csprojAssemblyReference.cache
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\obj\Debug\ESQL与RSQL.csproj.CoreCompileInputs.cache
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\obj\Debug\ESQL与RSQL.csproj.CopyComplete
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\obj\Debug\ESQL与RSQL.exe
+D:\个人C#\DOME\EF\EFDome\ESQL与RSQL\obj\Debug\ESQL与RSQL.pdb

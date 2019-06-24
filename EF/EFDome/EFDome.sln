@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq基础", "Linq基础\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq在EF中的Lambda表达式方法", "Linq在EF中的Lambda表达式方法\Linq在EF中的Lambda表达式方法.csproj", "{D48FF846-4041-4877-AA4A-0ABBA4396700}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESQL与RSQL", "ESQL与RSQL\ESQL与RSQL.csproj", "{7451BB2D-939E-4095-8D9E-9BFA41A71916}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D48FF846-4041-4877-AA4A-0ABBA4396700}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D48FF846-4041-4877-AA4A-0ABBA4396700}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D48FF846-4041-4877-AA4A-0ABBA4396700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7451BB2D-939E-4095-8D9E-9BFA41A71916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7451BB2D-939E-4095-8D9E-9BFA41A71916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7451BB2D-939E-4095-8D9E-9BFA41A71916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7451BB2D-939E-4095-8D9E-9BFA41A71916}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
