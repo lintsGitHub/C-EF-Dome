@@ -1,0 +1,13 @@
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\bin\Debug\分析EF中的transaction.exe.config
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\bin\Debug\分析EF中的transaction.exe
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\bin\Debug\分析EF中的transaction.pdb
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\bin\Debug\EntityFramework.dll
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\bin\Debug\EntityFramework.SqlServer.dll
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\bin\Debug\EntityFramework.xml
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\bin\Debug\EntityFramework.SqlServer.xml
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\obj\Debug\分析EF中的transaction.csproj.CoreCompileInputs.cache
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\obj\Debug\分析EF中的transaction.csproj.CopyComplete
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\obj\Debug\分析EF中的transaction.exe
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\obj\Debug\分析EF中的transaction.pdb
+D:\个人C#\DOME\EF\EFDome\分析EF中的transaction\obj\Debug\分析EF中的transaction.csprojAssemblyReference.cache
