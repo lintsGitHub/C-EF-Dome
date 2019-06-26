@@ -10,6 +10,7 @@
         public Model()
             : base("name=Models")
         {
+            Database.SetInitializer<Model>(new DropCreateDatabaseModelChanges<Model>());
         }
 
         public virtual DbSet<School> Schools { get; set; }

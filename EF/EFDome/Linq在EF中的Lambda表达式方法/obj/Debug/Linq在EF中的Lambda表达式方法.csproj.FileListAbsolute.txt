@@ -11,3 +11,4 @@ D:\个人C#\DOME\EF\EFDome\Linq在EF中的Lambda表达式方法\obj\Debug\Linq�
 D:\个人C#\DOME\EF\EFDome\Linq在EF中的Lambda表达式方法\obj\Debug\Linq在EF中的Lambda表达式方法.csproj.CopyComplete
 D:\个人C#\DOME\EF\EFDome\Linq在EF中的Lambda表达式方法\obj\Debug\Linq在EF中的Lambda表达式方法.exe
 D:\个人C#\DOME\EF\EFDome\Linq在EF中的Lambda表达式方法\obj\Debug\Linq在EF中的Lambda表达式方法.pdb
+D:\个人C#\DOME\EF\EFDome\Linq在EF中的Lambda表达式方法\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll

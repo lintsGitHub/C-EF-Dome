@@ -1,0 +1,13 @@
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\bin\Debug\CodeFirst数据迁移问题.exe.config
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\bin\Debug\CodeFirst数据迁移问题.exe
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\bin\Debug\CodeFirst数据迁移问题.pdb
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\bin\Debug\EntityFramework.dll
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\bin\Debug\EntityFramework.SqlServer.dll
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\bin\Debug\EntityFramework.xml
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\bin\Debug\EntityFramework.SqlServer.xml
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\obj\Debug\CodeFirst数据迁移问题.csproj.CoreCompileInputs.cache
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\obj\Debug\CodeFirst数据迁移问题.csproj.CopyComplete
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\obj\Debug\CodeFirst数据迁移问题.exe
+D:\个人C#\DOME\EF\EFDome\CodeFirst数据迁移问题\obj\Debug\CodeFirst数据迁移问题.pdb
