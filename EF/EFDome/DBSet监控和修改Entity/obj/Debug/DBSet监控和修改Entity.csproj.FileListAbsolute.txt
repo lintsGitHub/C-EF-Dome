@@ -1,0 +1,13 @@
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\bin\Debug\DBSet监控和修改Entity.exe.config
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\bin\Debug\DBSet监控和修改Entity.exe
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\bin\Debug\DBSet监控和修改Entity.pdb
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\bin\Debug\EntityFramework.dll
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\bin\Debug\EntityFramework.xml
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\obj\Debug\DBSet监控和修改Entity.csprojAssemblyReference.cache
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\obj\Debug\DBSet监控和修改Entity.csproj.CoreCompileInputs.cache
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\obj\Debug\DBSet监控和修改Entity.csproj.CopyComplete
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\obj\Debug\DBSet监控和修改Entity.exe
+D:\个人C#\DOME\EF\EFDome\DBSet监控和修改Entity\obj\Debug\DBSet监控和修改Entity.pdb
