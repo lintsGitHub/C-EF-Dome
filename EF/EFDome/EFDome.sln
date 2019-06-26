@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBSet监控和修改Entity"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF中的拦截", "EF中的拦截\EF中的拦截.csproj", "{F998027F-D807-4A54-AA7A-1502FF5E5BD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codefirst 一对一，一对多，多对多关系", "codefirst 一对一，一对多，多对多关系\codefirst 一对一，一对多，多对多关系.csproj", "{31F83207-9882-4310-81AA-E5E393036087}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F998027F-D807-4A54-AA7A-1502FF5E5BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F998027F-D807-4A54-AA7A-1502FF5E5BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F998027F-D807-4A54-AA7A-1502FF5E5BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F83207-9882-4310-81AA-E5E393036087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F83207-9882-4310-81AA-E5E393036087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F83207-9882-4310-81AA-E5E393036087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F83207-9882-4310-81AA-E5E393036087}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

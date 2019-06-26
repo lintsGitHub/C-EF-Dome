@@ -1,0 +1,14 @@
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\bin\Debug\codefirst 一对一，一对多，多对多关系.exe.config
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\bin\Debug\codefirst 一对一，一对多，多对多关系.exe
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\bin\Debug\codefirst 一对一，一对多，多对多关系.pdb
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\bin\Debug\EntityFramework.dll
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\bin\Debug\EntityFramework.SqlServer.dll
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\bin\Debug\EntityFramework.xml
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\bin\Debug\EntityFramework.SqlServer.xml
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\obj\Debug\codefirst 一对一，一对多，多对多关系.csprojAssemblyReference.cache
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\obj\Debug\codefirst 一对一，一对多，多对多关系.csproj.CoreCompileInputs.cache
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\obj\Debug\codefirst 一对一，一对多，多对多关系.csproj.CopyComplete
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\obj\Debug\codefirst 一对一，一对多，多对多关系.exe
+D:\个人C#\DOME\EF\EFDome\codefirst 一对一，一对多，多对多关系\obj\Debug\codefirst 一对一，一对多，多对多关系.pdb
