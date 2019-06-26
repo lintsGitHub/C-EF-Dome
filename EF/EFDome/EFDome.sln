@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codefirst 一对一，一�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst通过DataAnnotations来修改默认协定", "CodeFirst通过DataAnnotations来修改默认协定\CodeFirst通过DataAnnotations来修改默认协定.csproj", "{5BA10A5F-6E7E-48BC-B5AE-08AB53A2FDCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst通过FluentAPI修改默认协定", "CodeFirst通过FluentAPI修改默认协定\CodeFirst通过FluentAPI修改默认协定.csproj", "{2F8D0C9F-AC5E-4C02-80D7-6C61993F3435}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{5BA10A5F-6E7E-48BC-B5AE-08AB53A2FDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BA10A5F-6E7E-48BC-B5AE-08AB53A2FDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BA10A5F-6E7E-48BC-B5AE-08AB53A2FDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8D0C9F-AC5E-4C02-80D7-6C61993F3435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8D0C9F-AC5E-4C02-80D7-6C61993F3435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8D0C9F-AC5E-4C02-80D7-6C61993F3435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8D0C9F-AC5E-4C02-80D7-6C61993F3435}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
