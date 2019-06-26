@@ -1,0 +1,14 @@
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\bin\Debug\CodeFirst通过DataAnnotations来修改默认协定.exe.config
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\bin\Debug\CodeFirst通过DataAnnotations来修改默认协定.exe
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\bin\Debug\CodeFirst通过DataAnnotations来修改默认协定.pdb
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\bin\Debug\EntityFramework.dll
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\bin\Debug\EntityFramework.SqlServer.dll
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\bin\Debug\EntityFramework.xml
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\bin\Debug\EntityFramework.SqlServer.xml
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\obj\Debug\CodeFirst通过DataAnnotations来修改默认协定.csprojAssemblyReference.cache
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\obj\Debug\CodeFirst通过DataAnnotations来修改默认协定.csproj.CoreCompileInputs.cache
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\obj\Debug\CodeFirst通过DataAnnotations来修改默认协定.csproj.CopyComplete
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\obj\Debug\CodeFirst通过DataAnnotations来修改默认协定.exe
+D:\个人C#\DOME\EF\EFDome\CodeFirst通过DataAnnotations来修改默认协定\obj\Debug\CodeFirst通过DataAnnotations来修改默认协定.pdb
