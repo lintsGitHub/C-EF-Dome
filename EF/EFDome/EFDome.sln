@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst通过DataAnnotati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst通过FluentAPI修改默认协定", "CodeFirst通过FluentAPI修改默认协定\CodeFirst通过FluentAPI修改默认协定.csproj", "{2F8D0C9F-AC5E-4C02-80D7-6C61993F3435}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "根据DB生成DbFirst", "根据DB生成DbFirst\根据DB生成DbFirst.csproj", "{0D9061D1-AD3B-4C56-B332-6326FF342841}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{2F8D0C9F-AC5E-4C02-80D7-6C61993F3435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F8D0C9F-AC5E-4C02-80D7-6C61993F3435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F8D0C9F-AC5E-4C02-80D7-6C61993F3435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9061D1-AD3B-4C56-B332-6326FF342841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9061D1-AD3B-4C56-B332-6326FF342841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9061D1-AD3B-4C56-B332-6326FF342841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9061D1-AD3B-4C56-B332-6326FF342841}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
