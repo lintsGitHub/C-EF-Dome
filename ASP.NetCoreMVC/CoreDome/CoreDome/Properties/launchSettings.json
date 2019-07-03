@@ -1,0 +1,32 @@
+﻿{
+  //IIS的配置
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:63450",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    // IIS的打开方式
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    //.NetCore的打开方式
+    "CoreDome": {
+      "commandName": "Project",
+      //是否打开浏览器
+      "launchBrowser": true,
+      //浏览器地址
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+[
+  //生产环境压缩
+  {
+    "outputFileName": "wwwroot/css/all.min.css",
+    "inputFiles": [
+      "mode_modules/bootstrap/dist/css/bootstrap.css",
+      "wwwroot/css/site.css"
+
+    ]
+  },
+  //开发环境下不压缩
+  {
+    "outputFileName": "wwwroot/css/bootstrap.css",
+    "inputFiles": [
+      "mode_modules/bootstrap/dist/css/bootstrap.css"
+    ],
+    "minify": {"enabled": false}
+  }
+]
